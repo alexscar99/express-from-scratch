@@ -1,0 +1,25 @@
+{
+  "name": "express-from-scratch",
+  "version": "1.0.0",
+  "description": "Node application building Express.js from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexscar99/express-from-scratch.git"
+  },
+  "author": "Alex Scarlett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexscar99/express-from-scratch/issues"
+  },
+  "homepage": "https://github.com/alexscar99/express-from-scratch#readme",
+  "dependencies": {
+    "array-flatten": "^2.1.2",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2",
+    "setprototypeof": "^1.2.0"
+  }
+}
